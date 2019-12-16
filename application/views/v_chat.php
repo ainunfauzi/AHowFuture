@@ -14,7 +14,10 @@
       <?php $this->load->view('menu');?> <!--Include menu-->
       <div class="col-md-12">
         <div class="row">
-          <h2>View Chat</h2>
+          <center>
+            <marquee scrollamount="13"><h1 style="color: white"><b>H</b>alaman <b>S</b>edang <b>D</b>iperbaiki</h1></marquee>
+            <img src="<?php echo base_url().'assets/img/google.gif'?>" alt="Google" style="width: 650px;height: 400px">
+          </center>
         </div>
       </div>
     </div> <!-- /container -->
